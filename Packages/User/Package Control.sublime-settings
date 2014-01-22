@@ -1,0 +1,29 @@
+{
+	"installed_packages":
+	[
+		"AAAPackageDev",
+		"ABC Notation",
+		"Alignment",
+		"AlignTab",
+		"Autoprefixer",
+		"BracketHighlighter",
+		"ColorPick",
+		"ColorPicker",
+		"Emmet",
+		"Git",
+		"Hayaku - tools for writing CSS faster",
+		"jQuery",
+		"LiveReload",
+		"LiveStyle",
+		"Package Control",
+		"Prefixr",
+		"Sass",
+		"SCSS",
+		"Theme - Spacegray",
+		"VAlign"
+	],
+	"repositories":
+	[
+		"https://github.com/forty-two/NightCycle.git"
+	]
+}

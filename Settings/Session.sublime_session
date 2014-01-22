@@ -1,0 +1,1520 @@
+{
+	"folder_history":
+	[
+		"/Users/ct/Copy/Graphic Design/WSO/WSO Repo/prototype/imports",
+		"/Users/ct/Copy/Graphic Design/WSO/WSO Repo/prototype/scss/bitters/mixins",
+		"/Users/ct/Copy/Graphic Design/WSO/WSO Repo/prototype/scss",
+		"/Users/ct/Documents/gits/Balzac-for-Jekyll",
+		"/Users/ct/Copy/Graphic Design/Eph Social/scss",
+		"/Users/ct/Copy/Markup/Tumblr/Ledger/scss",
+		"/Users/ct/Copy/Markup/Tumblr/Ledger/css",
+		"/Users/ct/Documents/gits/Stephen-C-Townsend-Law/assets",
+		"/Users/ct/Documents/gits/Stephen-C-Townsend-Law"
+	],
+	"last_window_id": 219,
+	"settings":
+	{
+		"new_window_height": 768.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"max",
+						"max-width"
+					],
+					[
+						"ta",
+						"table-cell"
+					],
+					[
+						"borde",
+						"border-radius"
+					],
+					[
+						"color",
+						"color_range"
+					],
+					[
+						"bacg",
+						"background-color"
+					],
+					[
+						"cell",
+						"cellAction"
+					],
+					[
+						"pro",
+						"properties"
+					],
+					[
+						"bac",
+						"background-color"
+					],
+					[
+						"backg",
+						"backgroundColor"
+					],
+					[
+						"map",
+						"map_range"
+					],
+					[
+						"font",
+						"font-size"
+					],
+					[
+						"pa",
+						"padding-bottom"
+					],
+					[
+						"padd",
+						"padding-bottom"
+					],
+					[
+						"border",
+						"border-bottom"
+					],
+					[
+						"tex",
+						"text-decoration"
+					],
+					[
+						"fon",
+						"font-size"
+					],
+					[
+						"pad",
+						"padding-left"
+					],
+					[
+						"mar",
+						"margin-left"
+					]
+				]
+			},
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 289.0,
+				"selected_items":
+				[
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"pack",
+						"Package Control: Install Package"
+					],
+					[
+						"packag",
+						"Package Control: Install Package"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"packa",
+						"Package Control: Install Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"instl",
+						"Package Control: Install Package"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"pac",
+						"Package Control: Add Repository"
+					],
+					[
+						"Insta",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: Insta",
+						"Package Control: Install Package"
+					],
+					[
+						"Packa",
+						"Preferences: Browse Packages"
+					]
+				],
+				"width": 420.0
+			},
+			"console":
+			{
+				"height": 125.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/Users/ct/Copy/Graphic Design/WSO/WSO Repo/prototype/home.html",
+				"/Users/ct/Copy/Graphic Design/WSO/WSO Repo/prototype/scss/bitters/_forms.scss",
+				"/Users/ct/Copy/Graphic Design/WSO/WSO Repo/prototype/scss/bitters/_variables.scss",
+				"/Users/ct/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+				"/Users/ct/Copy/Graphic Design/WSO/WSO Repo/prototype/scss/_mixins.scss",
+				"/Users/ct/Copy/Graphic Design/WSO/WSO Repo/prototype/scss/bitters/extends/_button.scss",
+				"/Users/ct/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+				"/Users/ct/Library/Application Support/Sublime Text 2/Packages/NightCycle/NightCycle.sublime-settings",
+				"/Users/ct/Copy/Graphic Design/WSO/WSO Repo/prototype/scss/bitters/_typography.scss",
+				"/Users/ct/Copy/Graphic Design/WSO/WSO Repo/prototype/scss/bourbon/addons/_button.scss",
+				"/Users/ct/Copy/Graphic Design/WSO/WSO Repo/prototype/scss/bitters/_grid-settings.scss",
+				"/Users/ct/Copy/Graphic Design/WSO/WSO Repo/prototype/scss/bitters/_bitters.scss",
+				"/Users/ct/Copy/Graphic Design/WSO/WSO Repo/prototype/scss/bitters/_flashes.scss",
+				"/Users/ct/Copy/Graphic Design/WSO/WSO Repo/prototype/scss/bitters/_lists.scss",
+				"/Users/ct/Copy/Graphic Design/WSO/WSO Repo/prototype/scss/bitters/_tables.scss",
+				"/Users/ct/Copy/Graphic Design/WSO/WSO Repo/prototype/scss/bitters/mixins/_base.scss",
+				"/Users/ct/Copy/Graphic Design/WSO/WSO Repo/prototype/scss/bitters/mixins/_flash.scss",
+				"/Users/ct/Copy/Graphic Design/WSO/WSO Repo/prototype/scss/bitters/extends/_base.scss",
+				"/Users/ct/Desktop/Typistry Theme/typistry.html",
+				"/Users/ct/Copy/Graphic Design/WSO/WSO Repo/prototype/scss/bourbon/css3/_box-sizing.scss",
+				"/Users/ct/Copy/Graphic Design/WSO/WSO Repo/prototype/scss/_styles.scss",
+				"/Users/ct/Copy/Graphic Design/WSO/WSO Repo/prototype/scss/i.scss",
+				"/Users/ct/Copy/Graphic Design/WSO/WSO Repo/prototype/scss/_grid-settings.scss",
+				"/Users/ct/Copy/Graphic Design/WSO/WSO Repo/prototype/scss/_variables.scss",
+				"/Users/ct/Copy/Graphic Design/WSO/WSO Repo/prototype/scss/_grid.scss",
+				"/Users/ct/Documents/gits/Balzac-for-Jekyll/assets/sass/_variables.scss",
+				"/Users/ct/Copy/Graphic Design/WSO/WSO Repo/prototype/scss/_type.scss",
+				"/Users/ct/Documents/gits/Balzac-for-Jekyll/assets/sass/_mixins.scss",
+				"/Users/ct/Copy/Graphic Design/Eph Social/scss/variables.scss",
+				"/Users/ct/Copy/Graphic Design/Eph Social/scss/type.scss",
+				"/Users/ct/Copy/Graphic Design/Eph Social/scss/buttons.scss",
+				"/Users/ct/Copy/Graphic Design/Eph Social/scss/forms.scss",
+				"/Users/ct/Copy/Graphic Design/Eph Social/scss/icons.scss",
+				"/Users/ct/Copy/Graphic Design/Eph Social/scss/base.scss",
+				"/Users/ct/Copy/Markup/Tumblr/Ledger/scss/_styles.scss",
+				"/Users/ct/Copy/Graphic Design/Eph Social/scss/collections.scss",
+				"/Users/ct/Copy/Graphic Design/Eph Social/scss/tables.scss",
+				"/Users/ct/Copy/Graphic Design/Eph Social/Eph Social/scss/buttons.scss",
+				"/Users/ct/Copy/Graphic Design/Eph Social/Eph Social/scss/variables.scss",
+				"/Users/ct/Copy/Graphic Design/Eph Social/Eph Social/scss/default.scss",
+				"/Users/ct/Copy/Graphic Design/Eph Social/Eph Social/scss/collections.scss",
+				"/Users/ct/Copy/Graphic Design/Eph Social/Eph Social/scss/forms.scss",
+				"/Users/ct/Copy/Graphic Design/Eph Social/Eph Social/scss/base.scss",
+				"/Users/ct/Copy/Graphic Design/Eph Social/Eph Social/scss/type.scss",
+				"/Users/ct/Downloads/lumo/lumo 1-02/theme/lumo.html",
+				"/Users/ct/Copy/Markup/Tumblr/Ledger/typistry.html",
+				"/Users/ct/Copy/Markup/Tumblr/Ledger/js/photoset-grid.js",
+				"/Users/ct/Copy/Markup/Tumblr/Ledger/js/scripts.js",
+				"/Users/ct/Copy/Markup/Tumblr/Ledger/scss/styles.scss",
+				"/Users/ct/Documents/gits/Stephen-C-Townsend-Law/_sass/_variables.scss",
+				"/Users/ct/Documents/gits/Stephen-C-Townsend-Law/_sass/_grid.scss",
+				"/Users/ct/Desktop/typistry.html",
+				"/Users/ct/Documents/gits/Stephen-C-Townsend-Law/_sass/_styles.scss",
+				"/Users/ct/Documents/gits/Stephen-C-Townsend-Law/_includes/_footer-no-form.html",
+				"/Users/ct/Documents/gits/Stephen-C-Townsend-Law/_includes/_footer.html",
+				"/Users/ct/Documents/gits/Stephen-C-Townsend-Law/_layouts/thanks.html",
+				"/Users/ct/Documents/gits/Stephen-C-Townsend-Law/_layouts/homepage.html",
+				"/Users/ct/Documents/gits/Stephen-C-Townsend-Law/_sass/_type.scss",
+				"/Users/ct/Documents/gits/Stephen-C-Townsend-Law/_sass/_mixins.scss",
+				"/Users/ct/Documents/gits/Stephen-C-Townsend-Law/_config.yml",
+				"/Users/ct/Documents/gits/Stephen-C-Townsend-Law/_includes/_head.html",
+				"/Users/ct/Documents/gits/Stephen-C-Townsend-Law/_sass/i.scss",
+				"/Users/ct/Documents/gits/Stephen-C-Townsend-Law/thanks.md",
+				"/Users/ct/Documents/gits/Balzac-for-Jekyll/_config.yml",
+				"/Users/ct/Documents/gits/Stephen-C-Townsend-Law/CNAME",
+				"/Users/ct/Documents/gits/Stephen-C-Townsend-Law/assets/js/menu.js",
+				"/Users/ct/Documents/gits/Stephen-C-Townsend-Law/_includes/_js_includes.html",
+				"/Users/ct/Documents/gits/Stephen-C-Townsend-Law/_includes/_form.html",
+				"/Users/ct/Documents/gits/Stephen-C-Townsend-Law/menu.js",
+				"/Users/ct/Documents/gits/Balzac-for-Jekyll/_includes/head.html",
+				"/Users/ct/Documents/gits/Stephen-C-Townsend-Law/_sass/_queries.scss",
+				"/Users/ct/Documents/gits/Stephen-C-Townsend-Law/index.html",
+				"/Users/ct/Documents/gits/Stephen-C-Townsend-Law/_layouts/default.html",
+				"/Users/ct/Documents/gits/Balzac-for-Jekyll/Gemfile",
+				"/Users/ct/Documents/gits/Stephen-C-Townsend-Law/thanks.html",
+				"/Users/ct/Documents/gits/Stephen-C-Townsend-Law/_includes/footer-no-form.html",
+				"/Users/ct/Documents/gits/Stephen-C-Townsend-Law/_posts/2020-01-01-example.html",
+				"/Users/ct/Documents/gits/Stephen-C-Townsend-Law/_includes/_navigation_main.html",
+				"/Users/ct/Documents/gits/Stephen-C-Townsend-Law/Rakefile",
+				"/Users/ct/Documents/gits/Stephen-C-Townsend-Law/_sass/_form.scss",
+				"/Users/ct/Documents/gits/Stephen-C-Townsend-Law/_includes/form.html",
+				"/Users/ct/Library/Application Support/Sublime Text 2/Packages/AlignTab/AlignTab.sublime-settings",
+				"/Users/ct/Library/Application Support/Sublime Text 2/Packages/User/HTML.sublime-settings",
+				"/Users/ct/Documents/gits/Stephen-C-Townsend-Law/posts.html",
+				"/Users/ct/Library/Application Support/Sublime Text 2/Packages/LiveStyle/LiveStyle.sublime-settings",
+				"/private/etc/hosts",
+				"/private/etc/apache2/extra/httpd-vhosts.conf",
+				"/Users/ct/Documents/www/sites/stephentownsend/wwwroot/css/styles.css",
+				"/Users/ct/Downloads/Intro/Intro/app.js",
+				"/Users/ct/Downloads/sketch-framer-master/AppTemplate/index.html",
+				"/Users/ct/Downloads/sketch-framer-master/AppTemplate/app.js",
+				"/Users/ct/Desktop/preloader.css",
+				"/private/etc/hostconfig",
+				"/Applications/Sketch.localized/Sketch.app/Contents/Resources/ArtboardPresets.plist",
+				"/private/etc/apache2/httpd.conf",
+				"/Users/ct/Documents/www/sites/stephentownsend/wwwroot/scss/styles.scss",
+				"/Users/ct/Documents/www/sites/stephentownsend/wwwroot/index.html",
+				"/Users/ct/Documents/www/home/wwwroot/scss/_styles.scss",
+				"/Users/ct/Documents/gits/How Long?/index.html",
+				"/Users/ct/Documents/www/sites/balzac/assets/Rakefile",
+				"/Users/ct/Documents/gits/Development-Settings/ruby for jekyll/automater.rb",
+				"/Users/ct/Documents/gits/LocalHomePage/config.php",
+				"/Users/ct/Documents/www/home/wwwroot/scss/_typeplate.scss",
+				"/Users/ct/Documents/www/home/wwwroot/scss/_vars-typeplate.scss",
+				"/Users/ct/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+				"/Users/ct/Documents/www/home/wwwroot/css/main.css",
+				"/Users/ct/Documents/www/sites/balzac/assets/_config.yml",
+				"/Users/ct/Documents/www/sites/balzac/assets/Gemfile.lock",
+				"/Users/ct/Documents/www/sites/balzac/assets/Gemfile",
+				"/Users/ct/Documents/www/home/wwwroot/scss/i.scss",
+				"/Users/ct/Library/Application Support/Sublime Text 2/Packages/Alignment/Default (OSX).sublime-keymap",
+				"/Users/ct/Documents/www/home/wwwroot/index.html",
+				"/Users/ct/Documents/www/home/index.html",
+				"/Users/ct/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap"
+			],
+			"find":
+			{
+				"height": 35.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"list-right",
+					"border",
+					"input",
+					"form",
+					"$border",
+					"border",
+					"button",
+					"line-h",
+					"break",
+					"keyframes",
+					"header",
+					"table",
+					"list",
+					"gray",
+					"grey",
+					"pruplepur",
+					"pruple",
+					"blue",
+					"gray",
+					"gray-light",
+					"purple",
+					"link",
+					"photoset",
+					"liga",
+					"photoset",
+					"photo",
+					"post",
+					"list",
+					"answer",
+					"audio",
+					"photo",
+					"post container",
+					"photo\n",
+					"photo",
+					"audio",
+					"video",
+					"photo",
+					"video",
+					"container",
+					"wrap",
+					"nav",
+					"h1",
+					"title",
+					"h1",
+					"title",
+					"photo",
+					"header",
+					"nav",
+					"header",
+					"font-weight",
+					"footer",
+					"visited",
+					"footer",
+					"overlay",
+					"overlayu",
+					"hero",
+					"homepage",
+					"ul li",
+					"nav",
+					"homepage",
+					"header",
+					"shadow",
+					"ul",
+					"location",
+					"business",
+					"footer",
+					"input",
+					"footer",
+					"push",
+					"footer",
+					"hgroup h1",
+					"article",
+					"line-height",
+					"footer",
+					"article",
+					"form",
+					"font-weight",
+					"nav",
+					"&:hover",
+					"nav",
+					"hgroup",
+					".wrap",
+					"wrap",
+					".wrap",
+					"header",
+					"black",
+					"$black",
+					"wrap",
+					".wrap",
+					"section.wrap",
+					"hero",
+					"cta",
+					"container",
+					"legacy-",
+					"breakpoint",
+					"clearfix",
+					"form",
+					"article",
+					"footer",
+					"section",
+					"footer",
+					"input[type=\"submit\"",
+					"input",
+					"font",
+					"font'",
+					"submit",
+					"button",
+					"line-height",
+					"tab",
+					"row",
+					"Action",
+					"cell",
+					"content",
+					"a",
+					":hover",
+					"no",
+					"h1",
+					":hover",
+					"line-height",
+					"line",
+					"li",
+					"font"
+				],
+				"highlight": false,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": true,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 38.0
+			},
+			"input":
+			{
+				"height": 31.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					],
+					[
+						1,
+						0,
+						2,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					0.5,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"replace":
+			{
+				"height": 0.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": false,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": false,
+			"side_bar_width": 337.0,
+			"status_bar_visible": true
+		},
+		"new_window_width": 1243.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"max",
+						"max-width"
+					],
+					[
+						"ta",
+						"table-cell"
+					],
+					[
+						"borde",
+						"border-radius"
+					],
+					[
+						"color",
+						"color_range"
+					],
+					[
+						"bacg",
+						"background-color"
+					],
+					[
+						"cell",
+						"cellAction"
+					],
+					[
+						"pro",
+						"properties"
+					],
+					[
+						"bac",
+						"background-color"
+					],
+					[
+						"backg",
+						"backgroundColor"
+					],
+					[
+						"map",
+						"map_range"
+					],
+					[
+						"font",
+						"font-size"
+					],
+					[
+						"pa",
+						"padding-bottom"
+					],
+					[
+						"padd",
+						"padding-bottom"
+					],
+					[
+						"border",
+						"border-bottom"
+					],
+					[
+						"tex",
+						"text-decoration"
+					],
+					[
+						"fon",
+						"font-size"
+					],
+					[
+						"pad",
+						"padding-left"
+					],
+					[
+						"mar",
+						"margin-left"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "scss/neat/settings/_visual-grid.scss",
+					"settings":
+					{
+						"buffer_size": 275,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "scss/_styles.scss",
+					"settings":
+					{
+						"buffer_size": 7525,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "scss/_mixins.scss",
+					"settings":
+					{
+						"buffer_size": 5375,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "imports/_logged-in-nav.kit",
+					"settings":
+					{
+						"buffer_size": 369,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "home.kit",
+					"settings":
+					{
+						"buffer_size": 1905,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "about.kit",
+					"settings":
+					{
+						"buffer_size": 2477,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 289.0,
+				"selected_items":
+				[
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"pack",
+						"Package Control: Install Package"
+					],
+					[
+						"packag",
+						"Package Control: Install Package"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"packa",
+						"Package Control: Install Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"instl",
+						"Package Control: Install Package"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"pac",
+						"Package Control: Add Repository"
+					],
+					[
+						"Insta",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: Insta",
+						"Package Control: Install Package"
+					],
+					[
+						"Packa",
+						"Preferences: Browse Packages"
+					]
+				],
+				"width": 420.0
+			},
+			"console":
+			{
+				"height": 125.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/Users/ct/Copy/Graphic Design/WSO/WSO Repo/prototype/scss/about.kit",
+				"/Users/ct/Copy/Graphic Design/WSO/WSO Repo/prototype/scss/bitters/_typography.scss",
+				"/Users/ct/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+				"/Users/ct/Copy/Graphic Design/WSO/WSO Repo/prototype/scss/bitters/_variables.scss",
+				"/Users/ct/Copy/Graphic Design/WSO/WSO Repo/prototype/scss/bourbon/addons/_button.scss",
+				"/Users/ct/Copy/Graphic Design/WSO/WSO Repo/prototype/about.kit",
+				"/Users/ct/Copy/Graphic Design/WSO/WSO Repo/prototype/imports/_footer.kit",
+				"/Users/ct/Copy/Graphic Design/WSO/WSO Repo/prototype/imports/_logged-in-nav.kit",
+				"/Users/ct/Copy/Graphic Design/WSO/WSO Repo/prototype/imports/_list-module.kit",
+				"/Users/ct/Copy/Graphic Design/WSO/WSO Repo/prototype/scss/_styles.scss",
+				"/Users/ct/Copy/Graphic Design/WSO/WSO Repo/prototype/scss/bitters/_forms.scss",
+				"/Users/ct/Copy/Graphic Design/WSO/WSO Repo/prototype/scss/neat/settings/_visual-grid.scss",
+				"/Users/ct/Copy/Graphic Design/WSO/WSO Repo/prototype/scss/bitters/_grid-settings.scss",
+				"/Users/ct/Copy/Graphic Design/WSO/WSO Repo/prototype/scss/i.scss",
+				"/Users/ct/Copy/Graphic Design/WSO/WSO Repo/prototype/scss/bitters/_tables.scss",
+				"/Users/ct/Copy/Graphic Design/WSO/WSO Repo/prototype/imports/_footer.html",
+				"/Users/ct/Copy/Graphic Design/WSO/WSO Repo/prototype/imports/_logged-in-nav.html",
+				"/Users/ct/Copy/Graphic Design/WSO/WSO Repo/prototype/scss/_grid-settings.scss",
+				"/Users/ct/Copy/Graphic Design/WSO/WSO Repo/prototype/scss/bitters/_bitters.scss",
+				"/Users/ct/Copy/Graphic Design/WSO/WSO Repo/prototype/imports/_list-module.html",
+				"/Users/ct/Copy/Graphic Design/WSO/WSO Repo/prototype/scss/neat/_neat.scss",
+				"/Users/ct/Copy/Graphic Design/WSO/WSO Repo/prototype/scss/neat/grid/_grid.scss",
+				"/Users/ct/Copy/Graphic Design/WSO/WSO Repo/prototype/scss/neat/settings/_grid.scss",
+				"/Users/ct/Copy/Graphic Design/WSO/WSO Repo/prototype/scss/neat/grid/_visual-grid.scss",
+				"/Users/ct/Copy/Graphic Design/WSO/WSO Repo/prototype/scss/neat/grid/_media.scss",
+				"/Users/ct/Copy/Graphic Design/WSO/WSO Repo/prototype/scss/neat/_neat-helpers.scss",
+				"/Users/ct/Copy/Graphic Design/WSO/WSO Repo/prototype/scss/_mixins.scss",
+				"/Users/ct/Copy/Graphic Design/WSO/WSO Repo/prototype/imports/_head.html",
+				"/Users/ct/Copy/Graphic Design/WSO/WSO Repo/prototype/home.html",
+				"/Users/ct/Copy/Graphic Design/WSO/WSO Repo/prototype/scss/bitters/extends/_button.scss",
+				"/Users/ct/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+				"/Users/ct/Library/Application Support/Sublime Text 2/Packages/NightCycle/NightCycle.sublime-settings",
+				"/Users/ct/Copy/Graphic Design/WSO/WSO Repo/prototype/scss/bitters/_flashes.scss",
+				"/Users/ct/Copy/Graphic Design/WSO/WSO Repo/prototype/scss/bitters/_lists.scss",
+				"/Users/ct/Copy/Graphic Design/WSO/WSO Repo/prototype/scss/bitters/mixins/_base.scss",
+				"/Users/ct/Copy/Graphic Design/WSO/WSO Repo/prototype/scss/bitters/mixins/_flash.scss",
+				"/Users/ct/Copy/Graphic Design/WSO/WSO Repo/prototype/scss/bitters/extends/_base.scss",
+				"/Users/ct/Desktop/Typistry Theme/typistry.html",
+				"/Users/ct/Copy/Graphic Design/WSO/WSO Repo/prototype/scss/bourbon/css3/_box-sizing.scss",
+				"/Users/ct/Copy/Graphic Design/WSO/WSO Repo/prototype/scss/_variables.scss",
+				"/Users/ct/Copy/Graphic Design/WSO/WSO Repo/prototype/scss/_grid.scss",
+				"/Users/ct/Documents/gits/Balzac-for-Jekyll/assets/sass/_variables.scss",
+				"/Users/ct/Copy/Graphic Design/WSO/WSO Repo/prototype/scss/_type.scss",
+				"/Users/ct/Documents/gits/Balzac-for-Jekyll/assets/sass/_mixins.scss",
+				"/Users/ct/Copy/Graphic Design/Eph Social/scss/variables.scss",
+				"/Users/ct/Copy/Graphic Design/Eph Social/scss/type.scss",
+				"/Users/ct/Copy/Graphic Design/Eph Social/scss/buttons.scss",
+				"/Users/ct/Copy/Graphic Design/Eph Social/scss/forms.scss",
+				"/Users/ct/Copy/Graphic Design/Eph Social/scss/icons.scss",
+				"/Users/ct/Copy/Graphic Design/Eph Social/scss/base.scss",
+				"/Users/ct/Copy/Markup/Tumblr/Ledger/scss/_styles.scss",
+				"/Users/ct/Copy/Graphic Design/Eph Social/scss/collections.scss",
+				"/Users/ct/Copy/Graphic Design/Eph Social/scss/tables.scss",
+				"/Users/ct/Copy/Graphic Design/Eph Social/Eph Social/scss/buttons.scss",
+				"/Users/ct/Copy/Graphic Design/Eph Social/Eph Social/scss/variables.scss",
+				"/Users/ct/Copy/Graphic Design/Eph Social/Eph Social/scss/default.scss",
+				"/Users/ct/Copy/Graphic Design/Eph Social/Eph Social/scss/collections.scss",
+				"/Users/ct/Copy/Graphic Design/Eph Social/Eph Social/scss/forms.scss",
+				"/Users/ct/Copy/Graphic Design/Eph Social/Eph Social/scss/base.scss",
+				"/Users/ct/Copy/Graphic Design/Eph Social/Eph Social/scss/type.scss",
+				"/Users/ct/Downloads/lumo/lumo 1-02/theme/lumo.html",
+				"/Users/ct/Copy/Markup/Tumblr/Ledger/typistry.html",
+				"/Users/ct/Copy/Markup/Tumblr/Ledger/js/photoset-grid.js",
+				"/Users/ct/Copy/Markup/Tumblr/Ledger/js/scripts.js",
+				"/Users/ct/Copy/Markup/Tumblr/Ledger/scss/styles.scss",
+				"/Users/ct/Documents/gits/Stephen-C-Townsend-Law/_sass/_variables.scss",
+				"/Users/ct/Documents/gits/Stephen-C-Townsend-Law/_sass/_grid.scss",
+				"/Users/ct/Desktop/typistry.html",
+				"/Users/ct/Documents/gits/Stephen-C-Townsend-Law/_sass/_styles.scss",
+				"/Users/ct/Documents/gits/Stephen-C-Townsend-Law/_includes/_footer-no-form.html",
+				"/Users/ct/Documents/gits/Stephen-C-Townsend-Law/_includes/_footer.html",
+				"/Users/ct/Documents/gits/Stephen-C-Townsend-Law/_layouts/thanks.html",
+				"/Users/ct/Documents/gits/Stephen-C-Townsend-Law/_layouts/homepage.html",
+				"/Users/ct/Documents/gits/Stephen-C-Townsend-Law/_sass/_type.scss",
+				"/Users/ct/Documents/gits/Stephen-C-Townsend-Law/_sass/_mixins.scss",
+				"/Users/ct/Documents/gits/Stephen-C-Townsend-Law/_config.yml",
+				"/Users/ct/Documents/gits/Stephen-C-Townsend-Law/_includes/_head.html",
+				"/Users/ct/Documents/gits/Stephen-C-Townsend-Law/_sass/i.scss",
+				"/Users/ct/Documents/gits/Stephen-C-Townsend-Law/thanks.md",
+				"/Users/ct/Documents/gits/Balzac-for-Jekyll/_config.yml",
+				"/Users/ct/Documents/gits/Stephen-C-Townsend-Law/CNAME",
+				"/Users/ct/Documents/gits/Stephen-C-Townsend-Law/assets/js/menu.js",
+				"/Users/ct/Documents/gits/Stephen-C-Townsend-Law/_includes/_js_includes.html",
+				"/Users/ct/Documents/gits/Stephen-C-Townsend-Law/_includes/_form.html",
+				"/Users/ct/Documents/gits/Stephen-C-Townsend-Law/menu.js",
+				"/Users/ct/Documents/gits/Balzac-for-Jekyll/_includes/head.html",
+				"/Users/ct/Documents/gits/Stephen-C-Townsend-Law/_sass/_queries.scss",
+				"/Users/ct/Documents/gits/Stephen-C-Townsend-Law/index.html",
+				"/Users/ct/Documents/gits/Stephen-C-Townsend-Law/_layouts/default.html",
+				"/Users/ct/Documents/gits/Balzac-for-Jekyll/Gemfile",
+				"/Users/ct/Documents/gits/Stephen-C-Townsend-Law/thanks.html",
+				"/Users/ct/Documents/gits/Stephen-C-Townsend-Law/_includes/footer-no-form.html",
+				"/Users/ct/Documents/gits/Stephen-C-Townsend-Law/_posts/2020-01-01-example.html",
+				"/Users/ct/Documents/gits/Stephen-C-Townsend-Law/_includes/_navigation_main.html",
+				"/Users/ct/Documents/gits/Stephen-C-Townsend-Law/Rakefile",
+				"/Users/ct/Documents/gits/Stephen-C-Townsend-Law/_sass/_form.scss",
+				"/Users/ct/Documents/gits/Stephen-C-Townsend-Law/_includes/form.html",
+				"/Users/ct/Library/Application Support/Sublime Text 2/Packages/AlignTab/AlignTab.sublime-settings",
+				"/Users/ct/Library/Application Support/Sublime Text 2/Packages/User/HTML.sublime-settings",
+				"/Users/ct/Documents/gits/Stephen-C-Townsend-Law/posts.html",
+				"/Users/ct/Library/Application Support/Sublime Text 2/Packages/LiveStyle/LiveStyle.sublime-settings",
+				"/private/etc/hosts",
+				"/private/etc/apache2/extra/httpd-vhosts.conf",
+				"/Users/ct/Documents/www/sites/stephentownsend/wwwroot/css/styles.css",
+				"/Users/ct/Downloads/Intro/Intro/app.js",
+				"/Users/ct/Downloads/sketch-framer-master/AppTemplate/index.html",
+				"/Users/ct/Downloads/sketch-framer-master/AppTemplate/app.js",
+				"/Users/ct/Desktop/preloader.css",
+				"/private/etc/hostconfig",
+				"/Applications/Sketch.localized/Sketch.app/Contents/Resources/ArtboardPresets.plist",
+				"/private/etc/apache2/httpd.conf",
+				"/Users/ct/Documents/www/sites/stephentownsend/wwwroot/scss/styles.scss",
+				"/Users/ct/Documents/www/sites/stephentownsend/wwwroot/index.html",
+				"/Users/ct/Documents/www/home/wwwroot/scss/_styles.scss",
+				"/Users/ct/Documents/gits/How Long?/index.html",
+				"/Users/ct/Documents/www/sites/balzac/assets/Rakefile",
+				"/Users/ct/Documents/gits/Development-Settings/ruby for jekyll/automater.rb",
+				"/Users/ct/Documents/gits/LocalHomePage/config.php",
+				"/Users/ct/Documents/www/home/wwwroot/scss/_typeplate.scss",
+				"/Users/ct/Documents/www/home/wwwroot/scss/_vars-typeplate.scss",
+				"/Users/ct/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+				"/Users/ct/Documents/www/home/wwwroot/css/main.css",
+				"/Users/ct/Documents/www/sites/balzac/assets/_config.yml",
+				"/Users/ct/Documents/www/sites/balzac/assets/Gemfile.lock",
+				"/Users/ct/Documents/www/sites/balzac/assets/Gemfile",
+				"/Users/ct/Documents/www/home/wwwroot/scss/i.scss",
+				"/Users/ct/Library/Application Support/Sublime Text 2/Packages/Alignment/Default (OSX).sublime-keymap",
+				"/Users/ct/Documents/www/home/wwwroot/index.html"
+			],
+			"find":
+			{
+				"height": 35.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"about",
+					"header",
+					"about",
+					"module",
+					"list",
+					"ver",
+					"align",
+					"footer",
+					"list",
+					"input",
+					"inpout",
+					"flat",
+					"nav",
+					"border-radius",
+					"flat",
+					"nav",
+					"search",
+					"seach",
+					"flat",
+					"nav",
+					"logo",
+					"list",
+					"footer",
+					"home",
+					"footer",
+					":hover",
+					"&:hover",
+					"border",
+					"h1",
+					"list-right",
+					"border",
+					"input",
+					"form",
+					"$border",
+					"border",
+					"button",
+					"line-h",
+					"break",
+					"keyframes",
+					"header",
+					"table",
+					"list",
+					"gray",
+					"grey",
+					"pruplepur",
+					"pruple",
+					"blue",
+					"gray",
+					"gray-light",
+					"purple",
+					"link",
+					"photoset",
+					"liga",
+					"photoset",
+					"photo",
+					"post",
+					"list",
+					"answer",
+					"audio",
+					"photo",
+					"post container",
+					"photo\n",
+					"photo",
+					"audio",
+					"video",
+					"photo",
+					"video",
+					"container",
+					"wrap",
+					"nav",
+					"h1",
+					"title",
+					"h1",
+					"title",
+					"photo",
+					"header",
+					"nav",
+					"header",
+					"font-weight",
+					"footer",
+					"visited",
+					"footer",
+					"overlay",
+					"overlayu",
+					"hero",
+					"homepage",
+					"ul li",
+					"nav",
+					"homepage",
+					"header",
+					"shadow",
+					"ul",
+					"location",
+					"business",
+					"footer",
+					"input",
+					"footer",
+					"push",
+					"footer",
+					"hgroup h1",
+					"article",
+					"line-height",
+					"footer",
+					"article",
+					"form",
+					"font-weight",
+					"nav",
+					"&:hover",
+					"nav",
+					"hgroup",
+					".wrap",
+					"wrap",
+					".wrap",
+					"header",
+					"black",
+					"$black",
+					"wrap",
+					".wrap",
+					"section.wrap",
+					"hero",
+					"cta",
+					"container",
+					"legacy-",
+					"breakpoint",
+					"clearfix",
+					"form",
+					"article",
+					"footer"
+				],
+				"highlight": false,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": true,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"selected": 1,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "scss/neat/settings/_visual-grid.scss",
+							"settings":
+							{
+								"buffer_size": 275,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										19,
+										19
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close"
+									],
+									"syntax": "Packages/SCSS/SCSS.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "scss/_styles.scss",
+							"settings":
+							{
+								"buffer_size": 7525,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										6100,
+										6100
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"auto_indent": true,
+									"bh_regions":
+									[
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close"
+									],
+									"syntax": "Packages/SCSS/SCSS.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 6143.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "scss/_mixins.scss",
+							"settings":
+							{
+								"buffer_size": 5375,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										5091,
+										5091
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"auto_indent": true,
+									"bh_regions":
+									[
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close"
+									],
+									"syntax": "Packages/SCSS/SCSS.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 3036.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "imports/_logged-in-nav.kit",
+							"settings":
+							{
+								"buffer_size": 369,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close"
+									],
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						}
+					]
+				},
+				{
+					"selected": 1,
+					"sheets":
+					[
+						{
+							"buffer": 4,
+							"file": "home.kit",
+							"settings":
+							{
+								"buffer_size": 1905,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1852,
+										1890
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close"
+									],
+									"syntax": "Packages/HTML/HTML.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"file": "about.kit",
+							"settings":
+							{
+								"buffer_size": 2477,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										132,
+										132
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close"
+									],
+									"syntax": "Packages/HTML/HTML.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 38.0
+			},
+			"input":
+			{
+				"height": 31.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					],
+					[
+						1,
+						0,
+						2,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					0.5,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"position": "40 81 1243 790 0 0 1440 878 ",
+			"replace":
+			{
+				"height": 0.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": false,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 175.0,
+			"status_bar_visible": true,
+			"window_id": 215,
+			"workspace_name": "/Users/ct/Copy/Graphic Design/WSO/WSO Repo/prototype/wso project sublime.sublime-project"
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+			"/Users/ct/Copy/Graphic Design/WSO/WSO Repo/prototype/wso project sublime.sublime-project",
+			"/Users/ct/Copy/Graphic Design/WSO/WSO Repo/prototype/WSO Project.sublime-project",
+			"/Users/ct/Copy/Graphic Design/Eph Social/Eph Social.sublime-project"
+		]
+	}
+}
